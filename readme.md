@@ -1,3 +1,3 @@
 # Aj.NesT The Series
-# Java Project
-# Exercises
+* Java Project
+* Exercises
